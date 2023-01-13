@@ -3,14 +3,13 @@
  */
 public class Main {
   /**
-   * This is a comment
+   * This is a comment.
    * @param args this is a comment
    */
 
-   public static void main(String[] args) {
-       System.out.println("Hello world!");
-   }
-
- }
+  public static void main(String[] args){
+    System.out.println("Hello world!");
+  }
 
 }
+
